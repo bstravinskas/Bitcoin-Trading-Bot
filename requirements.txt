@@ -1,0 +1,9 @@
+#These are required libraries for this bot to work
+python-binance
+TA-Lib
+numpy
+websocket_client
+
+#this command may be helpful if you are trying to open a virtual environment in VS Code
+py -3 -m venv .venv 
+.venv\scripts\activate
